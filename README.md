@@ -7,7 +7,7 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
-Term: Fall 2022
+Term: Spring 2022
 
 + Projec title: A "data story" on the history of philosophy
 + This project is conducted by Dafne Pelagia Papaefthymiou
